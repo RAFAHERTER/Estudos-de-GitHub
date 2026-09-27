@@ -1,0 +1,6 @@
+Aula 05 de Git e GitHub
+
+5.0 Criando o "primeiro" repositório (Já tenho mais de um btw kkkkk)
+
+Criar um novo repositório "Ola Mundo", que supostamente seria o seu primeiro kkkkkk
+

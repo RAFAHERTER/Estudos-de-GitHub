@@ -1,0 +1,116 @@
+Aula 01  de Git e GitHub
+O que é Git?
+O que é versionamento?
+
+1.
+Para que serve ambos??
+
+Git é diferente de GitHub
+
+Git é um Sotfware de Controle de Versão VCS (Definição sucinta do que é)
+
+GitHub é uma plataforma de redes sociais para Programadores (Definição 
+sucinta do que é)
+
+Outra definição:
+Git é um repositório local 
+GitHub é um repositório remoto
+
+1.1
+Versionamento de Sotfware (Não necessariamente Sotfware, mas também qualquer
+outras coisas)
+
+"Nós programadores sempre iremos lidar com muitas versões da mesma coisa, e
+é de suma importância que as versões sejam controladas com um objetivo."
+
+Exemplo:
+
+Crie um site para um cliente:
+Mostra uma parte do site e recebe a aprovação do cliente. E resolve salvar o
+site num arquivo .zip  . E ao longo do tempo o cliente vai aprovando o site
+e você continua salvando o arquivo compactado ".zip". Até que chega um
+momento que você tem várias versões daquilo e você tem várias versões
+salvas em vários arquivos Git.
+
+Para evitar fazer essa quantidade de versões e ter que descompactar pra 
+resgatar uma única imagem. Ou até mesmo trabalhar em equipe. Como cada um
+irá salvar as informações?? Cada um com vários arquivos .zip?? dentro de um 
+drive??
+
+Percebe que não faz sentido né
+
+O Git resolve isso. Ele controla as versões 
+
+O usuário pega a pasta dos projetos e envia para um repositório local 
+instalado dentro do seu próprio computador. 
+O nome da ação de enviar os dados para esse repositório se chama "commit"
+A cada commit feito... é como se fosse cada arquivo .zip salvo dentro de um
+a pasta.
+
+O GitHub é justamente o que fará com que várias pessoas, com os seus 
+próprios repositórios remotos conversem entre si, através do repositório 
+REMOTO 
+
+Ação de enviar as informações para o repositório remoto : Push
+
+
+1.2
+
+1.2.1 Tipos de Sotfware que possuem repositório central (centralizado/ linear esses eram basicamente os primeiros controladores de versões que surgiram, e era estritamente obrigatório que esse repositório central mantivesse conexão com o computador para que as versões pudessem serem feitas. Era uma limitação, porém é bem melhor do que fazer vários arquivos ".zip") :
+
+- CA Sotfware CHANGE MANAGER (CCC)
+
+- Source Code Control System (SCCS)
+
+- Panvalet
+
+- Concurrent Version System (CVS)
+
+- Apache Subversion (SVN)
+
+- ClearCase
+
+- Visual SourceSafe
+
+- Perforce
+
+1.2.2
+
+Tipos de Sotfware que possuem repositório LOCAL (Distribuído):
+
+- Mercurial
+
+- Bazaar
+
+- Code Co-op
+
+- GNU arch
+
+- Monotone
+
+- Fossil
+
+- BitKeeper
+
+- Git
+
+
+1.3
+
+1.3.1 Vantagens
+
+- Controle de Histórico;
+    Ver como estava o código antes;
+    Controlar o código melhor;
+    Saber quem que fez as alterações;
+
+- Trabalho em equipe;
+
+- Ramificação do projeto;
+    Merge(Ação de juntar todas as ramificações feitas pela equipe e juntar tudo num só);
+
+- Segurança;
+    A pessoa que estiver fazendo a programação, vai conseguir olhar somente para o código dele.
+
+- Organização;
+

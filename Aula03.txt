@@ -1,0 +1,87 @@
+Aula 03 de Git e GitHub
+
+3. Quem veio primeiro?? O Git ou o GitHub??
+
+3.1 Um pouco de Históra.
+
+CVS - 1985
+
+- Centralizado
+- Open Source
+- Mais popular
+- Alguns problemas (Não deixava renomear e o commit demorava muito para ser
+ "commitado")
+
+SVN - 2000 (Resolveu alguns problemas de instabilidade e melhorou o que era
+ antes )
+
+- Centralizado
+- Open Source
+- Ativo até hoje
+- CVS - like
+
+BitKeeper - 2000
+
+- Distribuído
+- Proprietário
+- Versão comunidade
+- CVS - FREE
+
+BitKeeper - 2004 (PROBLEMA)
+Uns cara la começaram a tretar porque destravaram uma função que não era pra
+ser destravada. E o dono ficou boladão com isso obviamente. Pois o BitKeeper
+não era livre/ Gratuito então... por isso ele ficou pistola.
+Para destravar ele fez meio que uma "Engenharia Reversa" para conseguir tais
+ações.
+
+BitKeeper - 2005 (NOVA LICENÇA)
+
+- Nova LICENÇA
+- Acesso a metadados
+- Só na versão COMERCIAL
+
+Obs: E como o dono do LINUX era parceiro da BitKeeper, com essa nova licensa 
+acabou gerando intriga entre eles.
+
+E então o DONO do linux resolveu criar um novo Sotfware de versionamento de 
+Sotfware - CHAMADO DE GIT 
+
+Git - 2005
+
+- Distribuído
+- Open Source
+- Feito em 10 dias com pressa e com raiva 
+- Performance (FAZIA COMMITS em segundos)
+
+3.2 O que quer dizer "Git"?
+
+Frases ditas por Linus Torvaldo (dono do Git e do Linux)
+
+- Três letras do alfabeto;
+- Teimoso; cabeça-dura, pensa que sempre que está certo;
+- Global Information tracker;
+- Goddamn idiotic truckload of shit
+
+3.3 E o GitHub??
+
+GitHub - 2008
+- Propietário (Código Fechado);
+- Hospedagem de código;
+- Baseado em Git;
+- 2009: 46k repositórios (somente repositórios públicos);
+- 2010: 100k users / 1 Milhão repositório;
+- 2011: Ultrapassou Source Forge (Antigamente era o padrão);
+- 2013: 3 M users / 5 M repositórios;
+- 2016: 14° lugar na lista da Forbes; (Forbes é tipo um ranking de empresas)
+- 2018: Maior ataque de DDoS da história;
+
+GitHub - 2018
+- Adquiridos pela Microsoft;
+- U$ 7.5 Bilhões;
+- Operação independente;
+- 2020: GitHub compra a NPM;
+
+3.4 E esse mascote esquisito do GitHub??
+- Um gato com tentaculos e rosto humano kkkkkkkk;
+- O dono do desenho do Twitter desenhou a logo do GitHub e vendeu os 
+direitos de uso para eles;

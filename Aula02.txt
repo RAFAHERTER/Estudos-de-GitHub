@@ -1,0 +1,35 @@
+Aula 02 de Git e GitHub
+
+ - 2.0
+    O GitHub, além de ser uma plataforma digital para controle de versionamentos remotamente. 
+    Ele também é uma rede social para os programadores. 
+    Nele você consegue acessar a comunidade inteira de programação e acessar aos códigos deles, clonar seus repositórios dentro da sua própria maquina. E entre outras diversas funções.
+
+2.1 Coisas que o GitHub faz
+
+- Repositórios Ilimitados
+
+- Hospedagem de Código-fonte
+
+- Características de rede social
+
+- GitHub Pages integrado
+
+- Colaboração com outros membros
+
+- Forks
+
+2.2 Só existe o GitHub? que suporta o Git??
+
+- GitHub
+
+- GitLab
+
+- Bitbucket
+ 
+- Phabricator
+
+- Gogs
+
+- Kallithea
+

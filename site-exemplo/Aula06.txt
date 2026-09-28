@@ -1,0 +1,5 @@
+Aula 06 de Git e GitHub
+
+Clonando os repositórios pelo GitHub
+Coisa que eu já sabia também
+Porém sempre com algo a mais

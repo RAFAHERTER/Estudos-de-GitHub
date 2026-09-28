@@ -1,0 +1,14 @@
+Aula 08 de Git e GitHub
+
+Trabalhando com Issues
+
+8. O que são ISSUES??
+
+    São Recomendações ou perguntas feitas pelos usuários, direcionada ao dono desse repositório
+
+8.1 Como tratar ISSUES??
+
+    8.1.1 Você pode ser o gestor das ISSUES (atuando como proprietário do repositório) ou sendo a pessoa que faz a pergunta.
+
+
+

@@ -1,0 +1,32 @@
+Aula 11 de Git e GitHub
+
+Git branches de forma fácil e com exemplo.
+
+11. Trabalhando com branches / ramificações
+
+11.1 As branches são como ramificações de uma árvore 
+
+11.2 Sempre terá a branch master, que é a ramificação principal
+    E a partir desse ramo principal é separado por outros ramos (que seriam os galhos) 
+
+    A qualquer momento, é possível mandar o conteúdo da branche master para a sua "origin" através de um "push" (repositório remoto).
+
+    O termo pull no gitHub desktop principalmente é puxar as alterações que foram feitas manualmente no seu repositório remoto e isso irá ser salvo na sua máquina localmente. É como se fosse o inverso do "push".
+    O push envia as informações para o repositório remoto e o pull recebe as informações para o repositório local
+
+11.3 É muito comum apenas fazer commits na branch principal.
+    Porémmm EVITEM de fazer commits para a "branch master" .
+    Próximos passos será mostrar como fazer outros tipos de ramificações.
+
+    Será necessário criar uma nova branch representando apenas uma parte de seu projeto. E não se deve fazer isso commitando na branch principal.
+
+    Após as análises e teste e quiser tirar das ramificações e "fundir" as informações das branches para a principal, será necessário fazer um "MERGE". Esse é o termo para a ação de juntar as outras branchs dentro da principal.
+
+    Lembrete: Nada impede de fazer mais de uma branch ao mesmo tempo.
+    Também é possível deletar uma branch, caso não bons resultados.
+    E sim, é possível que haja conflitos entre as branches.
+
+11.4 PARTE PRÁTICA.
+
+
+

@@ -1,0 +1,9 @@
+Aula 09 de Git e GitHub
+
+Guia da Linguagem Markdown
+
+Linguagem de marcação igual o HTML.
+
+Markdown é principalmente o arquivo do ReadMe feito anteriormente na criação do repositório. (ReadMe.md)
+
+Também é possível utilizar a linguagem de Markdown nas ISSUES e Pull Requests
